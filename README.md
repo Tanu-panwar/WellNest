@@ -31,13 +31,13 @@
 
 ### 🎨 Frontend
 - **React.js**
-- **Tailwind CSS / Bootstrap**
+- **Tailwind CSS**
 - **REST API Integration**
 
 ### 🧪 Tools
 - **Git & GitHub**
 - **Postman**
-- **VS Code / Spring Tool Suite (STS)**
+- **VS Code & Spring Tool Suite (STS)**
 
 ---
 
@@ -53,16 +53,15 @@ mvn spring-boot:run
 ```
 ## Server: http://localhost:8080
 
-git clone https://github.com/your-username/wellnest-frontend.git
+```
+git clone https://github.com/Tanu-panwar/WellNest.git
 cd wellnest-frontend
 npm install
 npm start
-
+```
 ## App: http://localhost:3000
 
 ## 👩‍💻 Author
 
 Tanu Panwar
 Java Full Stack Developer | B.Tech CSE
-mvn clean install
-mvn spring-boot:run
