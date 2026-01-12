@@ -46,12 +46,14 @@
 ### ▶ Backend
 
 ```bash
-git clone https://github.com/your-username/wellnest-backend.git
+git clone https://github.com/Tanu-panwar/WellNest.git
 cd wellnest-backend
 mvn clean install
 mvn spring-boot:run
 ```
 ## Server: http://localhost:8080
+
+### ▶ Frontend
 
 ```
 git clone https://github.com/Tanu-panwar/WellNest.git
